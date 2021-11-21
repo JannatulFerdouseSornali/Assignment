@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project1">
         <activity
+            android:name=".Health"
+            android:exported="false" />
+        <activity
             android:name=".SIGNIN"
             android:exported="false" />
         <activity

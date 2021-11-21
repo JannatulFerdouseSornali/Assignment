@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="@color/pink"
+    android:background="#DCDCDC"
     android:paddingLeft="20dp"
     android:paddingRight="20dp">
 
@@ -121,7 +121,7 @@
             android:layout_height="48dp"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:background="@drawable/facebook_button"
+            android:background="@drawable/fbbutton"
             android:src="@drawable/facebook" />
 
         <ImageButton
@@ -129,7 +129,7 @@
             android:layout_height="48dp"
             android:layout_margin="10dp"
             android:layout_weight="1"
-            android:background="@drawable/twitter_button"
+            android:background="@drawable/twitterbutton"
             android:src="@drawable/twitter" />
 
 
