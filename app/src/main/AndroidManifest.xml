@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project1">
         <activity
+            android:name=".Discovery"
+            android:exported="false" />
+        <activity
+            android:name=".CheckOut"
+            android:exported="false" />
+        <activity
             android:name=".Health"
             android:exported="false" />
         <activity
